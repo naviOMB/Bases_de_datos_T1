@@ -1,9 +1,5 @@
  Tarea 1 - Bases de Datos
 
-**Integrantes:**
-- Iván Weber (202104092-7)
-- Javier Canepa (201910028-9)
-
 ---
 
 ## Descripción
